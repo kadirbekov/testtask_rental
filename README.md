@@ -83,3 +83,6 @@ The system keeps track of how many bonus points the customer has and the custome
 - That the code is neat.
 - That the code is self-documenting (use comments only as a last resort and consider restructuring your code for readability before resorting to comments).
 - Bonus points for unit testing of code.
+
+To enter as admin, enter `admin` as login
+To enter as user, you can register, or type `test` as login
